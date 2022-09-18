@@ -1,0 +1,13 @@
+.NavbarBg {
+  /* background-color: black !important; */
+  background-image: linear-gradient(to right,#6366f1,#8b5cf6, #ec4899);
+}
+
+.ConnectBtn {
+  background-color: #6f38c5 !important;
+  border-color: black;
+}
+.ConnectBtn:hover {
+  background: white !important;
+  color: #6f38c5 !important;
+}
